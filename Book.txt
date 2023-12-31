@@ -1,0 +1,10 @@
+S001,Ly,10,20000,Ly Hoc,The Nhat,NSB Tuoi tre,English
+S002,Toan,15,30000,Toan Hoc,Tan Loc,NSB Da Nang,Janpanese
+S003,Hoa,27,20000,Hoa hoc,The Nhat,NSB Tuoi tre,English
+S004,Sinh,30,30000,Sinh Hoc,Tan Loc,NSB Da Nang,Janpanese
+S005,Dia,30,20000,Dia Ly,The Nhat,NSB Tuoi tre,English
+S006,Lich Su,30,30000,Su Hoc,Tan Loc,NSB Da Nang,VietNamses
+S007,Anh Van,40,20000,Ngoai Ngu,The Nhat,NSB Tuoi tre,English
+S008,Van Hoc,30,30000,Van Hoc,Tan Loc,NSB Da Nang,VietNamses
+S009,Giai Tich,30,30000,Toan Hoc,The Nhat,NSB Da Nang,VietNamses
+S010,Doraemon,150,20000,Truyen tranh,1,NXB Kim Dong,Japanese

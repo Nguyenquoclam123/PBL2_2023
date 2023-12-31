@@ -1,0 +1,2 @@
+NV001,Nguyen Thanh Nam,Nam,0966321922,Nghe An,5000000
+NV002,Pham Ngoc Huynh,Nam,0963960052,Quang Nam,7000000

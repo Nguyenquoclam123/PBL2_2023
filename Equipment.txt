@@ -1,0 +1,8 @@
+DC001,But Bi,107,5000,Cao Cap,Nhat Ban,Trung Binh
+DC002,Gom,100,4000,Cao Cap,Viet Nam,Trung Binh
+DC003,Thuoc,100,10000,Cao Cap,Trung Quoc,Dai
+DC004,Hop But,60,40000,Cao Cap,My,Trung Binh
+DC005,But Chi,100,3000,Cao Cap,Thai Lan,Trung Binh
+DC006,Com Pa,100,7000,Cao Cap,Han Quoc,Trung Binh
+DC007,Cap Sach,50,200000,Cao Cap,Phap,To
+DC007,Cap Sach,50,200000,Cao Cap,Phap,To
